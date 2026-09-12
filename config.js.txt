@@ -1,3 +1,0 @@
-window.MX_CONFIG = {
-  SUPABASE_URL: "https://tupulenekonqbhubtwhi.supabase.co",
-  SUPABASE_PUBLISHABLE_KEY: "};eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR1cHVsZW5la29ucWJodWJ0d2hpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODkxNjQzODYsImV4cCI6MjEwNDc0MDM4Nn0.vYasMt4Nig7UCMc_xjxE1rfO3_mQHuOTZTMSzII6qkM"
